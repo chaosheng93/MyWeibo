@@ -1,0 +1,18 @@
+//
+//  Weibo_Prefix.pch
+//  HWWeibo
+//
+//  Created by gj on 15/8/19.
+//  Copyright (c) 2015年 www.huiwen.com 杭州汇文教育. All rights reserved.
+//
+
+#ifndef HWWeibo_Weibo_Prefix_pch
+#define HWWeibo_Weibo_Prefix_pch
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "Common.h"
+#import "UIViewExt.h"
+
+
+#endif
